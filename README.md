@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ark948
-Just coding...
+- Just coding...
 
 <!---
 ark948/ark948 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
